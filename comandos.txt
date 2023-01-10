@@ -1,1 +1,11 @@
-git init= inicializar el repositorio
+git status = vez el estado del repositorio en general
+git init= inicializar el repositorio (cuando creo un repositorio es lo primero que se tiene q hacer) sino
+git add= agregar que archivos quieres enviar al stage (que archivos se le quiere hacer seguimiento)
+git add=. /*enter*/ agrega  todos los archivos de esa carpeta
+git commit -m ="donde va el mensaje" (guardas estado completo de como estaba el repositorio en ese momento).save
+git push = subir todos estos cambios a tu repositorio remoto(github).
+git branch = en q  rama estas parado actualmente(verde rama actual y gris las demas) 
+git checkout -b nombre de la nueva rama
+git checkout nombrederama = para cambiarse de rama ( siempre se confirma la rama con el git branch)
+
+el git init solo es una ve
