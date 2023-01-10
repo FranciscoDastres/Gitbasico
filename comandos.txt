@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git status = vez el estado del repositorio en general
 git init= inicializar el repositorio (cuando creo un repositorio es lo primero que se tiene q hacer) sino
 git add= agregar que archivos quieres enviar al stage (que archivos se le quiere hacer seguimiento)
@@ -9,3 +10,8 @@ git checkout -b nombre de la nueva rama
 git checkout nombrederama = para cambiarse de rama ( siempre se confirma la rama con el git branch)
 
 el git init solo es una ve
+=======
+git init= inicializar el repositorio
+hola
+chao
+>>>>>>> 245a39e7f7de3cb164f761d320d16a9d1c14802b
