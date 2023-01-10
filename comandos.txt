@@ -1,1 +1,3 @@
 git init= inicializar el repositorio
+hola
+chao
